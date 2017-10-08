@@ -9,5 +9,13 @@
   <References>
   </References>
   <Items>
+    <Item Include="\Textures\Impression.png">
+      <Name>Impression</Name>
+      <BuildAction>Compile</BuildAction>
+      <Importer Name="TextureImporter" />
+      <Processor Name="TextureProcessor">
+        <TextureFormat>Compressed</TextureFormat>
+      </Processor>
+    </Item>
   </Items>
 </ContentProject>
